@@ -1,6 +1,6 @@
 ```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio, desenvolvido durante um dos cursos da Arula.
+# Olá, Bem vindo ao meu projeto de portfólio, desenvolvido durante um dos cursos da Arula.
 
 
 ## Ferramentas utilizadas:
